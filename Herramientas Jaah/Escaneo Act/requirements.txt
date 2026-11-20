@@ -1,0 +1,7 @@
+# Este proyecto no requiere librerías externas de Python (pip).
+# Utiliza exclusivamente la librería estándar de Python 3.8+.
+
+# Herramientas del sistema requeridas (instalar vía apt, pacman, brew, etc.):
+# - nmap
+# - netexec (comando: nxc)
+# - enum4linux-ng
