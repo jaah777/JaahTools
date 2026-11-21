@@ -1,0 +1,11 @@
+# JAAH SECURY - Dependencias de Python (solo Linux)
+# Instalar con: pip install -r requirements.txt
+# En distros con PEP 668 (Kali/Debian/Ubuntu recientes):
+#   pip install -r requirements.txt --break-system-packages
+
+scapy>=2.5.0           # Módulo [9] Elaboración de paquetes. Necesita root para enviar/recibir.
+
+# NetExec NO se instala desde aquí ni existe en PyPI como paquete "netexec".
+# Su instalación oficial es directo desde GitHub, vía pipx:
+#   pipx install git+https://github.com/Pennyw0rth/NetExec
+#   pipx install impacket
