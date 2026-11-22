@@ -38,7 +38,7 @@ Todo queda en `recon_output/`: `recon_data.json` (datos consolidados),
 ## Instalación
 
 ```bash
-git clone https://github.com/<tu-usuario>/jaah-securey.git
+git clone https://github.com/jaah777/jaah-securey.git
 cd jaah-securey
 
 # Dependencias de sistema (Debian/Ubuntu/Kali)
